@@ -1,9 +1,15 @@
 {
+ "id": "./",
  "name": "二種衛生管理者ドリル",
  "short_name": "衛管ドリル",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
+ "orientation": "any",
+ "dir": "ltr",
+ "categories": [
+  "education"
+ ],
  "background_color": "#f3f6f4",
  "theme_color": "#1f5d4c",
  "lang": "ja",
